@@ -3,7 +3,7 @@
 
 
 Skills : VUE JS / REACT / JS / HTML / CSS / PHP
-Framework : LARAVEL 
+### Framework : LARAVEL 
 
 - 🔭 I’m currently working. 
 
