@@ -1,4 +1,4 @@
-### Hi there 👋, Im Arvin Cejalbo , 
+### Hi there 👋 , 
 ### I'm Full Stack Web Developer
 
 
